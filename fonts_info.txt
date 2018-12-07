@@ -1,0 +1,4 @@
+List of Fonts used in template 
+
+
+Roboto		http://www.google.com/fonts/#UsePlace:use/Collection:Roboto:300,100
